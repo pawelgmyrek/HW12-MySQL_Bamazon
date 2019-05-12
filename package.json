@@ -1,0 +1,23 @@
+{
+  "name": "hw12-mysql_bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazoncustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawelgmyrek/HW12-MySQL_Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawelgmyrek/HW12-MySQL_Bamazon/issues"
+  },
+  "homepage": "https://github.com/pawelgmyrek/HW12-MySQL_Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
+}
